@@ -1,0 +1,18 @@
+.array-container {
+    position: absolute;
+    left: 100px;
+}
+
+.button-container {
+    position: absolute;
+    left: 800px;
+    top: 200px;
+}
+
+.array-element {
+    display: inline-block;
+    border-radius: 25px;
+    width: 4px;
+    margin: 100px 1px 0;
+    top: 50%;
+}
